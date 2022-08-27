@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\bin\Debug\net6.0\Aboba001.exe
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\bin\Debug\net6.0\Aboba001.deps.json
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\bin\Debug\net6.0\Aboba001.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\bin\Debug\net6.0\Aboba001.dll
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\bin\Debug\net6.0\Aboba001.pdb
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.dll
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\refint\Aboba001.dll
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.pdb
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\Aboba001.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Aboba\Aboba001\obj\Debug\net6.0\ref\Aboba001.dll
